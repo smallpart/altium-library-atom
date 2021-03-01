@@ -276,6 +276,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YZOKKHCS
 
 [Document15]
+DocumentPath=Schlib_OtherConnectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NQWETOFT
+
+[Document16]
 DocumentPath=Schlib_Proton.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWDSBYGS
 
-[Document16]
+[Document17]
 DocumentPath=Schlib_RC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJRJHODN
 
-[Document17]
+[Document18]
 DocumentPath=Schlib_Smiths_Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIDIZGJY
 
-[Document18]
+[Document19]
 DocumentPath=Schlib_STMicroelectronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHMIVEKF
 
-[Document19]
+[Document20]
 DocumentPath=Schlib_Texas_Instruments.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMQMRYAH
 
-[Document20]
+[Document21]
 DocumentPath=Schlib_Winsen.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNCEBKAG
 
-[Document21]
+[Document22]
 DocumentPath=PcbLib_ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,8 +411,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUUFAHPC
 
-[Document22]
-DocumentPath=Schlib_OtherConnectors.SchLib
+[Document23]
+DocumentPath=Schlib_OtherComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -409,7 +426,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NQWETOFT
+DocumentUniqueId=ALMXBTWU
 
 [OutputGroup1]
 Name=Netlist Outputs
