@@ -344,6 +344,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YZOKKHCS
 
 [Document19]
+DocumentPath=Sch_OtherComponents.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PMTQZPHJ
+
+[Document20]
 DocumentPath=Sch_OtherConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQWETOFT
 
-[Document20]
+[Document21]
 DocumentPath=Sch_Proton.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWDSBYGS
 
-[Document21]
+[Document22]
 DocumentPath=Sch_RCL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJRJHODN
 
-[Document22]
+[Document23]
 DocumentPath=Sch_Smiths_Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIDIZGJY
 
-[Document23]
+[Document24]
 DocumentPath=Sch_STMicroelectronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHMIVEKF
 
-[Document24]
+[Document25]
 DocumentPath=Sch_Texas_Instruments.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMQMRYAH
 
-[Document25]
+[Document26]
 DocumentPath=Sch_Winsen.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNCEBKAG
 
-[Document26]
+[Document27]
 DocumentPath=Pcb_ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUUFAHPC
 
-[Document27]
+[Document28]
 DocumentPath=Pcb_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWNXNBOX
 
-[Document28]
+[Document29]
 DocumentPath=Pcb_Boards.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
