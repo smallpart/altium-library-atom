@@ -4,49 +4,58 @@
 | 001 | Allegro Microsystems | ACS70331EOLCTR          | +      | +         | +  |
 | 002 | Analog Devices       | AD5160                  | +      | +         | +  |
 | 003 | Analog Devices       | AD7091R-2               | +      | +         | +  |
-| 004 | Bosch                | BME680                  | +      |           |    |
-| 005 | DC Components        | DL4148                  | +      | +         | +  |
-| 006 | Espressif            | ESP32-WROOM-32          | +      |           |    |
-| 007 | Infineon             | IRF7380PbF              | +      | +         | +  |
-| 008 | Maxim Integrated     | MAX16025                | +      |           |    |
-| 009 | Maxim Integrated     | MAX3221                 | +      |           |    |
-| 010 | Microchip            | MCP1416R                | +      | +         | +  |
-| 011 | Microchip            | MCP2515-I/SO            | +      | +         | +  |
-| 012 | Microchip            | MCP25625                | +      | +         | +  |
-| 013 | Microchip            | MCP4725                 | +      | +         | +  |
-| 014 | Molex Connectors     | 43045-0809              | +      |           |    |
-| 015 | Molex Connectors     | 502584-0370             | +      |           |    |
-| 016 | Molex Connectors     | 502584-0470             | +      |           |    |
-| 017 | NXP Semiconductors   | TJA1050T/VM,118         | +      | +         | +  |
-| 018 | ON Semiconductor     | AMIS42770               | +      | +         | +  |
-| 019 | Smiths Connectors    | D-CG-2.5-6              | +      |           |    |
-| 020 | Smiths Connectors    | D-CP-2.5-6              | +      |           |    |
-| 021 | STMicroelectronics   | STLM75                  | +      | +         | +  |
-| 022 | STMicroelectronics   | STM32L162RDT            | +      | +         | +  |
-| 023 | Texas Instruments    | EK-TM4C1294XL           | +      | +         |    |
-| 024 | Texas Instruments    | LM1117IMP               | +      | +         | +  |
-| 025 | Texas Instruments    | MSP430FR215xTDBT        | +      | +         | +  |
-| 026 | Texas Instruments    | MSP430FR215xTPT         | +      | +         | +  |
-| 027 | Texas Instruments    | MSP430FR215xTRHA        | +      | +         | +  |
-| 028 | Texas Instruments    | MSP430FR215xTRSM        | +      | +         | +  |
-| 029 | Texas Instruments    | MSP430FR235xTDBT        | +      | +         | +  |
-| 030 | Texas Instruments    | MSP430FR235xTPT         | +      | +         | +  |
-| 031 | Texas Instruments    | MSP430FR235xTRHA        | +      | +         | +  |
-| 032 | Texas Instruments    | MSP430FR235xTRSM        | +      | +         | +  |
-| 033 | Texas Instruments    | MSP430FR2433IRGE        | +      | +         | +  |
-| 034 | Texas Instruments    | MSP430FR2433IYQW        | +      |           |    |
-| 035 | Texas Instruments    | MSP-EXP432E401Y         | +      | +         |    |
-| 036 | Texas Instruments    | SN64LVC244Ax            | +      | +         | +  |
-| 037 | Texas Instruments    | SN74LVC1G04             | +      | +         | +  |
-| 038 | Texas Instruments    | TMP100                  | +      | +         | +  |
-| 039 | Texas Instruments    | TMP101                  | +      | +         | +  |
-| 040 | Winsen               | MH-Z19B                 | +      |           |    |
-| 041 |                      | BH-14                   | +      | +         | +  |
-| 042 |                      | BH-14R                  | +      | +         | +  |
-| 043 |                      | PBD-30                  | +      |           |    |
-| 044 |                      | PLS-3                   | +      |           |    |
-| 045 |                      | PLS-4                   | +      |           |    |
-| 046 |                      | Raspberry Pi Zero       | +      | +         |    |
+| 004 | Analog Devices       | AD8032                  | +      | +         | +  |
+| 005 | Bosch                | BME680                  | +      |           |    |
+| 006 | Bourns               | RLB0608                 | +      | +         |    |
+| 007 | Bourns               | RLB0912                 | +      | +         |    |
+| 008 | DC Components        | DL4148                  | +      | +         | +  |
+| 009 | Espressif            | ESP32-WROOM-32          | +      |           |    |
+| 010 | Infineon             | IRF7380PbF              | +      | +         | +  |
+| 011 | Maxim Integrated     | MAX16025                | +      | +         | +  |
+| 012 | Maxim Integrated     | MAX3221                 | +      | +         | +  |
+| 013 | MCC                  | 1N4148W-TP              | +      | +         | +  |
+| 014 | Microchip            | MCP1416R                | +      | +         | +  |
+| 015 | Microchip            | MCP2515-I/SO            | +      | +         | +  |
+| 016 | Microchip            | MCP25625                | +      | +         | +  |
+| 017 | Microchip            | MCP4725                 | +      | +         | +  |
+| 018 | Molex Connectors     | 43045-0809              | +      |           |    |
+| 019 | Molex Connectors     | 502584-0370             | +      |           |    |
+| 020 | Molex Connectors     | 502584-0470             | +      |           |    |
+| 021 | NXP Semiconductors   | TJA1050T/VM,118         | +      | +         | +  |
+| 022 | ON Semiconductor     | AMIS42770               | +      | +         | +  |
+| 023 | Panasonic            | EEETG1J101UP            | +      | +         | +  |
+| 024 | Smiths Connectors    | D-CG-2.5-6              | +      |           |    |
+| 025 | Smiths Connectors    | D-CP-2.5-6              | +      |           |    |
+| 026 | STMicroelectronics   | STLM75                  | +      | +         | +  |
+| 027 | STMicroelectronics   | STM32L162RDT            | +      | +         | +  |
+| 028 | TE Connectivity      | 292303-1                | +      |           |    |
+| 029 | Texas Instruments    | EK-TM4C1294XL           | +      | +         |    |
+| 030 | Texas Instruments    | LM1117IMP               | +      | +         | +  |
+| 031 | Texas Instruments    | MSP430FR215xTDBT        | +      | +         | +  |
+| 032 | Texas Instruments    | MSP430FR215xTPT         | +      | +         | +  |
+| 033 | Texas Instruments    | MSP430FR215xTRHA        | +      | +         | +  |
+| 034 | Texas Instruments    | MSP430FR215xTRSM        | +      | +         | +  |
+| 035 | Texas Instruments    | MSP430FR235xTDBT        | +      | +         | +  |
+| 036 | Texas Instruments    | MSP430FR235xTPT         | +      | +         | +  |
+| 037 | Texas Instruments    | MSP430FR235xTRHA        | +      | +         | +  |
+| 038 | Texas Instruments    | MSP430FR235xTRSM        | +      | +         | +  |
+| 039 | Texas Instruments    | MSP430FR2433IRGE        | +      | +         | +  |
+| 040 | Texas Instruments    | MSP430FR2433IYQW        | +      |           |    |
+| 041 | Texas Instruments    | MSP-EXP432E401Y         | +      | +         |    |
+| 042 | Texas Instruments    | SN64LVC244Ax            | +      | +         | +  |
+| 043 | Texas Instruments    | SN74LVC1G04             | +      | +         | +  |
+| 044 | Texas Instruments    | TMP100                  | +      | +         | +  |
+| 045 | Texas Instruments    | TMP101                  | +      | +         | +  |
+| 046 | Vishay               | US1M                    | +      | +         | +  |
+| 047 | Winsen               | MH-Z19B                 | +      |           |    |
+| 048 |                      | BH-14                   | +      | +         | +  |
+| 049 |                      | BH-14R                  | +      | +         | +  |
+| 050 |                      | PBD-30                  | +      | +         |    |
+| 051 |                      | PBD-40                  | +      | +         |    |
+| 052 |                      | PLS-3                   | +      | +         |    |
+| 053 |                      | PLD-30R                 | +      | +         |    |
+| 054 |                      | PLS-4                   | +      | +         |    |
+| 055 |                      | Raspberry Pi Zero       | +      | +         |    |
 |--------------------------------------------------------------------------------|
 | RUS                                                                            |
 |--------------------------------------------------------------------------------|
