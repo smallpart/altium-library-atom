@@ -123,6 +123,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YMZSCIGL
 
 [Document6]
+DocumentPath=Sch_Degson.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YUQIGBXI
+
+[Document7]
 DocumentPath=Sch_Espressif.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COPUNXPN
 
-[Document7]
+[Document8]
 DocumentPath=Sch_Ferriwo_Electronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLACBCCO
 
-[Document8]
+[Document9]
 DocumentPath=Sch_Infineon.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPEFCCMN
 
-[Document9]
+[Document10]
 DocumentPath=Sch_Integral.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUMOBPAB
 
-[Document10]
+[Document11]
 DocumentPath=Sch_Kingbright.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VULSKPRW
 
-[Document11]
+[Document12]
 DocumentPath=Sch_Kremniy_EL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRZDVOTR
 
-[Document12]
+[Document13]
 DocumentPath=Sch_Krip_Techno.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URMHVRDA
 
-[Document13]
+[Document14]
 DocumentPath=Sch_Maxim_Integrated.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUOEULEO
 
-[Document14]
+[Document15]
 DocumentPath=Sch_MCC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDWQODOG
 
-[Document15]
+[Document16]
 DocumentPath=Sch_Meteor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTFEWSOB
 
-[Document16]
+[Document17]
 DocumentPath=Sch_Microchip.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKOGMEDJ
 
-[Document17]
+[Document18]
 DocumentPath=Sch_Milandr.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTSUBHVB
 
-[Document18]
+[Document19]
 DocumentPath=Sch_MolexConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPYKMJCX
 
-[Document19]
+[Document20]
 DocumentPath=Sch_NIIET.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZDMYCJQQ
 
-[Document20]
+[Document21]
 DocumentPath=Sch_NPO_Fizika.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZZRKPCQZ
 
-[Document21]
+[Document22]
 DocumentPath=Sch_NTC_SIT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNWMLAYN
 
-[Document22]
+[Document23]
 DocumentPath=Sch_NXP_Semiconductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXENEZDF
 
-[Document23]
+[Document24]
 DocumentPath=Sch_ONSemiconductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZOKKHCS
 
-[Document24]
+[Document25]
 DocumentPath=Sch_OtherComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMTQZPHJ
 
-[Document25]
+[Document26]
 DocumentPath=Sch_OtherConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQWETOFT
 
-[Document26]
+[Document27]
 DocumentPath=Sch_Panasonic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNEHWXQY
 
-[Document27]
+[Document28]
 DocumentPath=Sch_Proton.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWDSBYGS
 
-[Document28]
+[Document29]
 DocumentPath=Sch_RCL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJRJHODN
 
-[Document29]
+[Document30]
 DocumentPath=Sch_Smiths_Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIDIZGJY
 
-[Document30]
+[Document31]
 DocumentPath=Sch_STMicroelectronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHMIVEKF
 
-[Document31]
+[Document32]
 DocumentPath=Sch_TE_Connectivity.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCGAMMWR
 
-[Document32]
+[Document33]
 DocumentPath=Sch_Texas_Instruments.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMQMRYAH
 
-[Document33]
+[Document34]
 DocumentPath=Sch_Vishay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCVRMDQJ
 
-[Document34]
+[Document35]
 DocumentPath=Sch_Winsen.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNCEBKAG
 
-[Document35]
+[Document36]
 DocumentPath=Pcb_ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUUFAHPC
 
-[Document36]
+[Document37]
 DocumentPath=Pcb_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWNXNBOX
 
-[Document37]
+[Document38]
 DocumentPath=Pcb_Boards.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFUWLLFD
 
-[Document38]
+[Document39]
 DocumentPath=Pcb_Others.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEGKECID
 
-[Document39]
+[Document40]
 DocumentPath=Pcb_RCL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
